@@ -16,7 +16,7 @@ This is a simple chat server and client project implemented using Python and soc
 
 1. First, clone this repository to your local machine using the following command:
 ```
-git clone https://github.com/Shikha-code36/Socket_Programming_Python.git
+git clone https://github.com/Shikha-code36/ChatServer_with_Socket_Python.git
 ```
 
 
